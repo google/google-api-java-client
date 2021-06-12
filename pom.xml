@@ -499,7 +499,7 @@
     <project.oauth.version>1.31.5</project.oauth.version>
     <project.jsr305.version>3.0.2</project.jsr305.version>
     <project.gson.version>2.8.6</project.gson.version>
-    <project.protobuf-java.version>3.17.1</project.protobuf-java.version>
+    <project.protobuf-java.version>3.17.2</project.protobuf-java.version>
     <project.guava.version>30.1.1-android</project.guava.version>
     <project.appengine.version>1.9.89</project.appengine.version>
     <project.xpp3.version>1.1.4c</project.xpp3.version>
