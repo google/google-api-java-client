@@ -6,4 +6,8 @@
     <differenceType>8001</differenceType>
     <className>com/google/api/client/googleapis/auth/clientlogin/**</className>
   </difference>
+  <difference>
+    <differenceType>8001</differenceType>
+    <className>com/google/api/client/googleapis/apache/GoogleApacheHttpTransport</className>
+  </difference>
 </differences>
