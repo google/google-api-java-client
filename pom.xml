@@ -63,7 +63,6 @@
     * below in the dependencyManagement and maven-javadoc-plugin sections
     * google-api-client-assembly/classpath-include
     * google-api-client-assembly/pom.xml
-    * google-api-client-assembly/readme.html
     * google-api-client-assembly/dependencies/<name>-dependencies.html
         (use mvn project-info-reports:dependencies and copy from
         google-api-client-<name>/target/site/dependencies.html)

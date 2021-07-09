@@ -21,11 +21,6 @@
       <outputDirectory>google-api-java-client</outputDirectory>
     </file>
     <file>
-      <source>readme.html</source>
-      <filtered>true</filtered>
-      <outputDirectory>google-api-java-client</outputDirectory>
-    </file>
-    <file>
       <source>properties/google-api-client.jar.properties</source>
       <destName>google-api-client-${project.version}.jar.properties</destName>
       <outputDirectory>google-api-java-client/libs</outputDirectory>
